@@ -428,6 +428,12 @@ input::placeholder{
     .user{
         display: none;
     }
+    .search{
+        display: none;
+    }
+    .logo{
+        text-align: center;
+    }
     .content{
         flex-wrap: wrap;
     }
