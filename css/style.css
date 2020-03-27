@@ -434,6 +434,9 @@ input::placeholder{
     .logo{
         text-align: center;
     }
+    header{
+        text-align: center;
+    }
     .content{
         flex-wrap: wrap;
     }
